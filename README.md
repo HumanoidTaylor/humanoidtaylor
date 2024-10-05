@@ -4,6 +4,8 @@
 
 ## Overview
 
+https://www.youtube.com/@HumanoidTaylor
+
 HumanoidTaylor is a cutting-edge project dedicated to improving the motion control of humanoid robots through advanced mathematical techniques. By leveraging Taylor series approximations, this project develops algorithms that enable robots to perform smoother, more precise movements in real-time.
 
 ## Features
